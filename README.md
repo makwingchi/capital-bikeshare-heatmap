@@ -12,8 +12,8 @@ the area within half a mile from the bikeshare station (i.e. places people would
 - `HTML/CSS`
 
 ## Preview
-![demo1](/01.PNG)
+![demo1](/01.png)
 
-![demo2](/02.PNG)
+![demo2](/02.png)
 
-![demo3](/03.PNG)
+![demo3](/03.png)
