@@ -16,3 +16,26 @@ html, body, #map {
   border-radius: 20px;
   max-width: 450px;
 }
+
+h5 {
+  margin-top: 0.5rem;
+}
+
+#map {
+  z-index: 1
+}
+
+#city {
+  position: absolute;
+  top: 10px;
+  z-index: 5;
+  width: 170px;
+  height: auto;
+  background: rgb(255, 255, 255, 0.8);
+  padding: 10px;
+  margin-top: 25px;
+  margin-left: 70px;
+  font-family: roboto;
+  font-size: 13px;
+  border-radius: 5px;
+}
